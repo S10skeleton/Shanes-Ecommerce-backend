@@ -14,7 +14,7 @@ using Insomnia.
 
 ## Video Walkthru Link
 
-https://drive.google.com/file/d/1PMS8-zgnGEpdSA8fg7no7ZnKGN49MsZJ/view?usp=drive_link
+https://drive.google.com/file/d/1jMVLoezOrOgrhriC9CQ5ILPmcArW1Q2Y/view
 
 ## Repo Link
 
